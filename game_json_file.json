@@ -1,0 +1,1520 @@
+{
+    "game-1": {
+        "id": 1,
+        "total_kills": 0,
+        "player_kills": {}
+    },
+    "game-10": {
+        "id": 10,
+        "total_kills": 60,
+        "player_kills": {
+            "Assasinu Credi": 3,
+            "Chessus": 5,
+            "Dono da Bola": 3,
+            "Isgalamido": 6,
+            "Mal": 1,
+            "Oootsimo": -1,
+            "Zeh": 7
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_CRUSH"
+            ],
+            "Assasinu Credi": [
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_ROCKET",
+                "MOD_RAILGUN"
+            ],
+            "Chessus": [
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG"
+            ],
+            "Dono da Bola": [
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Isgalamido": [
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_BFG",
+                "MOD_BFG_SPLASH",
+                "MOD_TELEFRAG",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_MACHINEGUN"
+            ],
+            "Mal": [
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG",
+                "MOD_TELEFRAG"
+            ],
+            "Oootsimo": [
+                "MOD_TELEFRAG"
+            ],
+            "Zeh": [
+                "MOD_TELEFRAG",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_BFG_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_BFG"
+            ]
+        }
+    },
+    "game-11": {
+        "id": 11,
+        "total_kills": 20,
+        "player_kills": {
+            "Assasinu Credi": -3,
+            "Dono da Bola": -2,
+            "Isgalamido": 5,
+            "Oootsimo": 4
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_CRUSH",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Dono da Bola": [
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Isgalamido": [
+                "MOD_BFG_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_BFG_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_BFG_SPLASH"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH"
+            ]
+        }
+    },
+    "game-12": {
+        "id": 12,
+        "total_kills": 160,
+        "player_kills": {
+            "Assasinu Credi": 20,
+            "Chessus": 13,
+            "Dono da Bola": 3,
+            "Isgalamido": 26,
+            "Mal": -6,
+            "Oootsimo": 13,
+            "Zeh": 13
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Chessus": [
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_BFG"
+            ],
+            "Dono da Bola": [
+                "MOD_RAILGUN",
+                "MOD_BFG",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_BFG_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Isgalamido": [
+                "MOD_BFG_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_MACHINEGUN",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_BFG",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_MACHINEGUN",
+                "MOD_BFG",
+                "MOD_BFG_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_BFG_SPLASH",
+                "MOD_ROCKET",
+                "MOD_BFG",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_BFG_SPLASH",
+                "MOD_ROCKET",
+                "MOD_BFG"
+            ],
+            "Mal": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_MACHINEGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET"
+            ],
+            "Zeh": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_BFG_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ]
+        }
+    },
+    "game-13": {
+        "id": 13,
+        "total_kills": 6,
+        "player_kills": {
+            "Dono da Bola": -1,
+            "Isgalamido": -1,
+            "Oootsimo": 2,
+            "Zeh": 2
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Zeh": [
+                "MOD_BFG_SPLASH",
+                "MOD_BFG"
+            ]
+        }
+    },
+    "game-14": {
+        "id": 14,
+        "total_kills": 122,
+        "player_kills": {
+            "Assasinu Credi": 7,
+            "Chessus": 7,
+            "Dono da Bola": 2,
+            "Isgalamido": 22,
+            "Mal": -2,
+            "Oootsimo": 9,
+            "Zeh": 5
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Chessus": [
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN"
+            ],
+            "Dono da Bola": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN"
+            ],
+            "Isgalamido": [
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_RAILGUN",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG",
+                "MOD_MACHINEGUN",
+                "MOD_BFG_SPLASH",
+                "MOD_BFG",
+                "MOD_RAILGUN",
+                "MOD_BFG_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET"
+            ],
+            "Mal": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Zeh": [
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_BFG",
+                "MOD_BFG",
+                "MOD_ROCKET",
+                "MOD_ROCKET"
+            ]
+        }
+    },
+    "game-15": {
+        "id": 15,
+        "total_kills": 3,
+        "player_kills": {
+            "Zeh": -3
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ]
+        }
+    },
+    "game-16": {
+        "id": 16,
+        "total_kills": 0,
+        "player_kills": {}
+    },
+    "game-17": {
+        "id": 17,
+        "total_kills": 13,
+        "player_kills": {
+            "Assasinu Credi": -3,
+            "Dono da Bola": -2,
+            "Isgalamido": 0,
+            "Mal": -1,
+            "Oootsimo": 1,
+            "Zeh": 0
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Isgalamido": [
+                "MOD_RAILGUN"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Zeh": [
+                "MOD_RAILGUN"
+            ]
+        }
+    },
+    "game-18": {
+        "id": 18,
+        "total_kills": 7,
+        "player_kills": {
+            "Assasinu Credi": 2,
+            "Dono da Bola": -1,
+            "Isgalamido": 1,
+            "Mal": -1,
+            "Zeh": 2
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Isgalamido": [
+                "MOD_ROCKET"
+            ],
+            "Zeh": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ]
+        }
+    },
+    "game-19": {
+        "id": 19,
+        "total_kills": 95,
+        "player_kills": {
+            "Assasinu Credi": 9,
+            "Dono da Bola": 14,
+            "Isgalamido": 14,
+            "Mal": 2,
+            "Oootsimo": 10,
+            "Zeh": 20
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Dono da Bola": [
+                "MOD_MACHINEGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET"
+            ],
+            "Isgalamido": [
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET"
+            ],
+            "Mal": [
+                "MOD_ROCKET",
+                "MOD_MACHINEGUN",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_SHOTGUN",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Zeh": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_SHOTGUN",
+                "MOD_SHOTGUN",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ]
+        }
+    },
+    "game-2": {
+        "id": 2,
+        "total_kills": 11,
+        "player_kills": {
+            "Isgalamido": -5
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Isgalamido": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ]
+        }
+    },
+    "game-20": {
+        "id": 20,
+        "total_kills": 3,
+        "player_kills": {
+            "Dono da Bola": 2,
+            "Oootsimo": 1
+        },
+        "kills": {
+            "Dono da Bola": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET"
+            ]
+        }
+    },
+    "game-21": {
+        "id": 21,
+        "total_kills": 131,
+        "player_kills": {
+            "Assasinu Credi": 19,
+            "Dono da Bola": 14,
+            "Isgalamido": 17,
+            "Mal": 6,
+            "Oootsimo": 22,
+            "Zeh": 19
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET"
+            ],
+            "Dono da Bola": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Isgalamido": [
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET"
+            ],
+            "Mal": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Zeh": [
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_SHOTGUN",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET"
+            ]
+        }
+    },
+    "game-3": {
+        "id": 3,
+        "total_kills": 4,
+        "player_kills": {
+            "Dono da Bola": -1,
+            "Isgalamido": 1,
+            "Zeh": -2
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING"
+            ],
+            "Isgalamido": [
+                "MOD_ROCKET"
+            ]
+        }
+    },
+    "game-4": {
+        "id": 4,
+        "total_kills": 105,
+        "player_kills": {
+            "Assasinu Credi": 13,
+            "Dono da Bola": 13,
+            "Isgalamido": 19,
+            "Zeh": 20
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Dono da Bola": [
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Isgalamido": [
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Zeh": [
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ]
+        }
+    },
+    "game-5": {
+        "id": 5,
+        "total_kills": 14,
+        "player_kills": {
+            "Assasinu Credi": 1,
+            "Isgalamido": 2,
+            "Zeh": 1
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Isgalamido": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Zeh": [
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH"
+            ]
+        }
+    },
+    "game-6": {
+        "id": 6,
+        "total_kills": 29,
+        "player_kills": {
+            "Assasinu Credi": 1,
+            "Dono da Bola": 2,
+            "Isgalamido": 3,
+            "Maluquinho": 0,
+            "Oootsimo": 8,
+            "Zeh": 7
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Dono da Bola": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Isgalamido": [
+                "MOD_RAILGUN",
+                "MOD_SHOTGUN",
+                "MOD_SHOTGUN",
+                "MOD_MACHINEGUN"
+            ],
+            "Maluquinho": [
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Zeh": [
+                "MOD_ROCKET",
+                "MOD_SHOTGUN",
+                "MOD_RAILGUN",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ]
+        }
+    },
+    "game-7": {
+        "id": 7,
+        "total_kills": 130,
+        "player_kills": {
+            "Assasinu Credi": 22,
+            "Dono da Bola": 12,
+            "Isgalamido": 16,
+            "Mal": -3,
+            "Oootsimo": 20,
+            "Zeh": 9
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Dono da Bola": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Isgalamido": [
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_MACHINEGUN",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Mal": [
+                "MOD_ROCKET",
+                "MOD_SHOTGUN",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_SHOTGUN",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Zeh": [
+                "MOD_ROCKET",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_SHOTGUN",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_MACHINEGUN"
+            ]
+        }
+    },
+    "game-8": {
+        "id": 8,
+        "total_kills": 89,
+        "player_kills": {
+            "Assasinu Credi": 10,
+            "Dono da Bola": 3,
+            "Isgalamido": 20,
+            "Mal": -2,
+            "Oootsimo": 16,
+            "Zeh": 12
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Dono da Bola": [
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Isgalamido": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN"
+            ],
+            "Mal": [
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Zeh": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_SHOTGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ]
+        }
+    },
+    "game-9": {
+        "id": 9,
+        "total_kills": 67,
+        "player_kills": {
+            "Assasinu Credi": 10,
+            "Chessus": 8,
+            "Dono da Bola": 2,
+            "Isgalamido": 1,
+            "Mal": 3,
+            "Oootsimo": 9,
+            "Zeh": 12
+        },
+        "kills": {
+            "\u003cworld\u003e": [
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_FALLING",
+                "MOD_TRIGGER_HURT",
+                "MOD_TRIGGER_HURT"
+            ],
+            "Assasinu Credi": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET"
+            ],
+            "Chessus": [
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN"
+            ],
+            "Dono da Bola": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Isgalamido": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Mal": [
+                "MOD_SHOTGUN",
+                "MOD_ROCKET",
+                "MOD_MACHINEGUN",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH"
+            ],
+            "Oootsimo": [
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET",
+                "MOD_MACHINEGUN"
+            ],
+            "Zeh": [
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET_SPLASH",
+                "MOD_ROCKET",
+                "MOD_ROCKET_SPLASH",
+                "MOD_RAILGUN",
+                "MOD_RAILGUN",
+                "MOD_MACHINEGUN"
+            ]
+        }
+    }
+}
